@@ -51,8 +51,13 @@
 ._文本段落 {
   text-align:left;
 }
+.arrow {
+}
 .droplist {
   color:#000000;
+  text-align:left;
+}
+.radio_button {
   text-align:left;
 }
 .flow_shape {
@@ -64,6 +69,10 @@
   font-size:14px;
   color:rgba(51, 51, 51, 0.8);
   text-align:left;
+}
+.table_cell {
+}
+.connector {
 }
 .menu_item {
 }
@@ -86,12 +95,14 @@
 }
 .shape {
 }
-.connector {
+.connector1 {
 }
 .box_1 {
 }
 .image1 {
   color:#000000;
+}
+.placeholder {
 }
 .vertical_line {
 }
